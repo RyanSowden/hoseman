@@ -1,0 +1,68 @@
+html body {
+    background-color: rgb(37, 37, 37);
+    overflow-x: hidden;
+
+}
+
+.logo {
+    width: 150px;
+    height: 40px;
+}
+
+
+.h1 {
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    margin-top: 60px;
+    
+}
+
+.h2 {
+    color: white;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.icon {
+    color: white;
+    display: inline-block;
+    margin-left: 190px;
+    
+}
+
+.img {
+    margin-top: 75px;
+}
+
+.card {
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 25px;
+    margin-bottom: 5px;
+    background: rgb(168, 167, 167);
+}
+
+.card h2 {
+    text-align: center;
+}
+
+.p {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+a {
+    color: white;
+}
+
+@media only screen and (max-width: 600px) {
+    .h2 {
+        margin-top: 40px;
+    }
+    
+}
+
+
+  
